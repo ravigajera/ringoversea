@@ -34,4 +34,5 @@ controller
 \application\controllers
 
 models
+
 \application\models
