@@ -1,37 +1,19 @@
 # ringoversea
 
-css path
+1) css path:-> \ringoversea\assets\css\front\css
 
-\ringoversea\assets\css\front\css
+2) css font path:-> \ringoversea\assets\css\front\fonts
 
-css font path 
+3) css icon path:-> \ringoversea\assets\css\front\icon
 
-\ringoversea\assets\css\front\fonts
+4) image path:-> \ringoversea\assets\images\front
 
-css icon path
-\ringoversea\assets\css\front\icon
+5) js path:-> \ringoversea\assets\js\front
 
-image path 
+6) logo path:-> \ringoversea\assets\logo
 
-\ringoversea\assets\images\front
+7) view:-> \ringoversea\application\views
 
-js path 
+8) controller:-> \ringoversea\application\controllers
 
-\ringoversea\assets\js\front
-
-logo path
-
-\ringoversea\assets\logo
-
-
-view 
-
-\ringoversea\application\views
-
-controller
-
-\ringoversea\application\controllers
-
-models
-
-\ringoversea\application\models
+9) models:-> \ringoversea\application\models
